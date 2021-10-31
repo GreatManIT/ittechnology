@@ -21,6 +21,7 @@ int main()
 	{
 		cout << "*";
 	}
+	cout << "Hello World!" << endl;
 
 	cout << "\n";
 	system("pause");
