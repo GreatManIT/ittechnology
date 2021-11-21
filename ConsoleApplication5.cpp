@@ -11,7 +11,7 @@ int main()
 	}
 	for (int i = 0; i < 10; i += 10)
 	{
-		cout << "\t*"<<endl;
+		cout << "\t Good*"<<endl;
 		for (int i = 0; i < 10; i += 10)
 		{
 			cout << "*";
